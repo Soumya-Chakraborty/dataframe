@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: dataframes
+Version: 1.0.0
+Summary: A basic DataFrame implementation in C with Python bindings
+Home-page: https://github.com/yourusername/dataframes
+Author: Soumya Chakraborty
+Author-email: soumya@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent

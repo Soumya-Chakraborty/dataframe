@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+dataframes.c
+pyproject.toml
+setup.py
+dataframes.egg-info/PKG-INFO
+dataframes.egg-info/SOURCES.txt
+dataframes.egg-info/dependency_links.txt
+dataframes.egg-info/top_level.txt
